@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+.header_logo {
+font-family: 'Bungee Shade', cursive;
+margin-top: 10px;
+margin-left: 10px;
+color:#fff;
+font-size: 70px;
+}
